@@ -1,4 +1,4 @@
-// assessment code set to correctly output 65 as total 
+// assessment code set to correctly output 65
 
 def calculate_sum(n):
     total = 0
